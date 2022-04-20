@@ -1,0 +1,661 @@
+Country Name,Country Code,Series Name,Year,Rate,Series Code
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2000,17.9326,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2001,17.4258,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2002,16.919,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2003,16.9552,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2004,16.9914,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2005,17.0276,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2006,17.0638,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2007,17.1,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2008,16.1404,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2009,15.1808,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2010,14.2212,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2011,13.2616,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2012,12.302,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2013,12.1846,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2014,12.0672,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2015,11.9498,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2016,11.8324,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2017,11.715,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2018,11.3258,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2019,10.9366,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2020,0,SP.ADO.TFRT
+Australia,AUS,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2021,0,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2000,27.783,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2001,26.037,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2002,24.291,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2003,23.8958,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2004,23.5006,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2005,23.1054,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2006,22.7102,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2007,22.315,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2008,22.1266,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2009,21.9382,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2010,21.7498,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2011,21.5614,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2012,21.373,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2013,19.9998,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2014,18.6266,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2015,17.2534,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2016,15.8802,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2017,14.507,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2018,13.7516,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2019,12.9962,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2020,0,SP.ADO.TFRT
+Belarus,BLR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2021,0,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2000,16.8338,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2001,15.7394,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2002,14.645,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2003,14.4514,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2004,14.2578,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2005,14.0642,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2006,13.8706,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2007,13.677,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2008,13.2404,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2009,12.8038,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2010,12.3672,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2011,11.9306,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2012,11.494,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2013,10.8726,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2014,10.2512,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2015,9.6298,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2016,9.0084,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2017,8.387,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2018,8.0346,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2019,7.6822,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2020,0,SP.ADO.TFRT
+Canada,CAN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2021,0,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2000,7.6438,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2001,7.7854,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2002,7.927,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2003,7.7912,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2004,7.6554,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2005,7.5196,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2006,7.3838,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2007,7.248,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2008,7.128,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2009,7.008,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2010,6.888,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2011,6.768,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2012,6.648,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2013,6.2638,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2014,5.8796,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2015,5.4954,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2016,5.1112,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2017,4.727,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2018,4.7362,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2019,4.7454,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2020,0,SP.ADO.TFRT
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2021,0,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2000,66.837,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2001,63.498,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2002,60.159,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2003,57.039,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2004,53.919,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2005,50.799,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2006,47.679,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2007,44.559,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2008,41.2576,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2009,37.9562,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2010,34.6548,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2011,31.3534,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2012,28.052,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2013,25.077,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2014,22.102,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2015,19.127,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2016,16.152,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2017,13.177,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2018,12.0708,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2019,10.9646,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2020,0,SP.ADO.TFRT
+India,IND,"Adolescent fertility rate (births per 1,000 women ages 15-19)",2021,0,SP.ADO.TFRT
+Australia,AUS,"Age at first marriage, female",2000,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2001,28.9,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2002,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2003,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2004,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2005,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2006,29.7,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2007,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2008,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2009,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2010,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2011,29.9,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2012,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2013,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2014,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2015,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2016,29.9,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2017,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2018,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2019,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2020,0,SP.DYN.SMAM.FE
+Australia,AUS,"Age at first marriage, female",2021,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2000,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2001,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2002,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2003,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2004,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2005,22.7,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2006,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2007,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2008,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2009,24.6,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2010,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2011,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2012,22.5,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2013,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2014,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2015,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2016,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2017,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2018,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2019,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2020,0,SP.DYN.SMAM.FE
+Belarus,BLR,"Age at first marriage, female",2021,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2000,26.6,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2001,26.3,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2002,26.8,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2003,26.7,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2004,26.8,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2005,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2006,26.6,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2007,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2008,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2009,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2010,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2011,26.9,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2012,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2013,27.1,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2014,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2015,27.1,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2016,27.2,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2017,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2018,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2019,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2020,0,SP.DYN.SMAM.FE
+Canada,CAN,"Age at first marriage, female",2021,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2000,30.2,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2001,30.5,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2002,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2003,31,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2004,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2005,31,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2006,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2007,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2008,22.7,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2009,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2010,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2011,25.6,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2012,32,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2013,32,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2014,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2015,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2016,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2017,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2018,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2019,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2020,0,SP.DYN.SMAM.FE
+France,FRA,"Age at first marriage, female",2021,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2000,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2001,20.2,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2002,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2003,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2004,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2005,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2006,20.2,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2007,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2008,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2009,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2010,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2011,20.7,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2012,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2013,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2014,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2015,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2016,21.4,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2017,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2018,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2019,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2020,0,SP.DYN.SMAM.FE
+India,IND,"Age at first marriage, female",2021,0,SP.DYN.SMAM.FE
+Australia,AUS,"Death rate, crude (per 1,000 people)",2000,6.7,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2001,6.6,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2002,6.8,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2003,6.6,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2004,6.5,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2005,6.4,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2006,6.4,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2007,6.7,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2008,6.7,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2009,6.5,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2010,6.5,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2011,6.6,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2012,6.6,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2013,6.4,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2014,6.6,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2015,6.6,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2016,6.6,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2017,6.5,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2018,6.3,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2019,6.7,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2020,0,SP.DYN.CDRT.IN
+Australia,AUS,"Death rate, crude (per 1,000 people)",2021,0,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2000,13.5,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2001,14.1,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2002,14.8,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2003,14.5,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2004,14.3,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2005,14.5,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2006,14.2,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2007,13.7,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2008,13.8,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2009,14.1,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2010,14.5,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2011,14.3,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2012,13.4,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2013,13.2,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2014,12.8,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2015,12.6,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2016,12.6,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2017,12.6,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2018,12.7,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2019,12.8,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2020,0,SP.DYN.CDRT.IN
+Belarus,BLR,"Death rate, crude (per 1,000 people)",2021,0,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2000,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2001,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2002,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2003,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2004,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2005,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2006,7,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2007,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2008,7.2,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2009,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2010,7,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2011,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2012,7.1,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2013,7.2,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2014,7.3,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2015,7.4,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2016,7.4,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2017,7.5,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2018,7.7,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2019,7.6,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2020,0,SP.DYN.CDRT.IN
+Canada,CAN,"Death rate, crude (per 1,000 people)",2021,0,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2000,8.9,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2001,8.8,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2002,8.8,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2003,9.1,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2004,8.3,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2005,8.5,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2006,8.3,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2007,8.3,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2008,8.5,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2009,8.5,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2010,8.5,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2011,8.4,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2012,8.7,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2013,8.7,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2014,8.4,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2015,8.9,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2016,8.9,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2017,9.1,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2018,9.1,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2019,9.1,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2020,0,SP.DYN.CDRT.IN
+France,FRA,"Death rate, crude (per 1,000 people)",2021,0,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2000,8.692,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2001,8.555,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2002,8.427,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2003,8.306,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2004,8.189,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2005,8.074,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2006,7.958,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2007,7.839,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2008,7.72,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2009,7.602,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2010,7.492,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2011,7.393,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2012,7.312,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2013,7.251,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2014,7.212,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2015,7.194,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2016,7.195,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2017,7.21,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2018,7.234,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2019,7.265,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2020,0,SP.DYN.CDRT.IN
+India,IND,"Death rate, crude (per 1,000 people)",2021,0,SP.DYN.CDRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2000,1.756,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2001,1.739,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2002,1.756,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2003,1.748,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2004,1.768,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2005,1.807,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2006,1.908,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2007,1.959,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2008,1.984,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2009,1.971,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2010,1.928,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2011,1.926,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2012,1.92,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2013,1.855,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2014,1.826,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2015,1.814,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2016,1.752,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2017,1.741,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2018,1.74,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2019,1.657,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2020,0,SP.DYN.TFRT.IN
+Australia,AUS,"Fertility rate, total (births per woman)",2021,0,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2000,1.317,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2001,1.286,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2002,1.24,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2003,1.232,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2004,1.233,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2005,1.252,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2006,1.335,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2007,1.429,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2008,1.488,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2009,1.509,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2010,1.494,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2011,1.515,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2012,1.62,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2013,1.668,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2014,1.696,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2015,1.724,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2016,1.733,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2017,1.541,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2018,1.448,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2019,1.382,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2020,0,SP.DYN.TFRT.IN
+Belarus,BLR,"Fertility rate, total (births per woman)",2021,0,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2000,1.488,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2001,1.5104,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2002,1.5014,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2003,1.5251,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2004,1.5258,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2005,1.5434,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2006,1.5862,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2007,1.6589,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2008,1.6808,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2009,1.668,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2010,1.6269,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2011,1.61,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2012,1.6142,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2013,1.587,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2014,1.5818,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2015,1.563,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2016,1.5433,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2017,1.4961,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2018,1.4988,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2019,1.4684,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2020,0,SP.DYN.TFRT.IN
+Canada,CAN,"Fertility rate, total (births per woman)",2021,0,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2000,1.89,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2001,1.9,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2002,1.88,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2003,1.89,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2004,1.92,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2005,1.94,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2006,2,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2007,1.98,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2008,2.01,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2009,2,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2010,2.03,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2011,2.01,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2012,2.01,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2013,1.99,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2014,2,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2015,1.96,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2016,1.92,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2017,1.9,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2018,1.88,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2019,1.87,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2020,0,SP.DYN.TFRT.IN
+France,FRA,"Fertility rate, total (births per woman)",2021,0,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2000,3.311,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2001,3.244,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2002,3.176,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2003,3.109,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2004,3.041,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2005,2.972,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2006,2.899,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2007,2.823,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2008,2.743,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2009,2.661,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2010,2.581,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2011,2.506,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2012,2.439,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2013,2.381,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2014,2.333,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2015,2.295,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2016,2.266,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2017,2.243,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2018,2.222,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2019,2.202,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2020,0,SP.DYN.TFRT.IN
+India,IND,"Fertility rate, total (births per woman)",2021,0,SP.DYN.TFRT.IN
+Australia,AUS,Net migration,2000,0,SM.POP.NETM
+Australia,AUS,Net migration,2001,0,SM.POP.NETM
+Australia,AUS,Net migration,2002,589282,SM.POP.NETM
+Australia,AUS,Net migration,2003,0,SM.POP.NETM
+Australia,AUS,Net migration,2004,0,SM.POP.NETM
+Australia,AUS,Net migration,2005,0,SM.POP.NETM
+Australia,AUS,Net migration,2006,0,SM.POP.NETM
+Australia,AUS,Net migration,2007,1210802,SM.POP.NETM
+Australia,AUS,Net migration,2008,0,SM.POP.NETM
+Australia,AUS,Net migration,2009,0,SM.POP.NETM
+Australia,AUS,Net migration,2010,0,SM.POP.NETM
+Australia,AUS,Net migration,2011,0,SM.POP.NETM
+Australia,AUS,Net migration,2012,989375,SM.POP.NETM
+Australia,AUS,Net migration,2013,0,SM.POP.NETM
+Australia,AUS,Net migration,2014,0,SM.POP.NETM
+Australia,AUS,Net migration,2015,0,SM.POP.NETM
+Australia,AUS,Net migration,2016,0,SM.POP.NETM
+Australia,AUS,Net migration,2017,791229,SM.POP.NETM
+Australia,AUS,Net migration,2018,0,SM.POP.NETM
+Australia,AUS,Net migration,2019,0,SM.POP.NETM
+Australia,AUS,Net migration,2020,0,SM.POP.NETM
+Australia,AUS,Net migration,2021,0,SM.POP.NETM
+Belarus,BLR,Net migration,2000,0,SM.POP.NETM
+Belarus,BLR,Net migration,2001,0,SM.POP.NETM
+Belarus,BLR,Net migration,2002,-6382,SM.POP.NETM
+Belarus,BLR,Net migration,2003,0,SM.POP.NETM
+Belarus,BLR,Net migration,2004,0,SM.POP.NETM
+Belarus,BLR,Net migration,2005,0,SM.POP.NETM
+Belarus,BLR,Net migration,2006,0,SM.POP.NETM
+Belarus,BLR,Net migration,2007,63933,SM.POP.NETM
+Belarus,BLR,Net migration,2008,0,SM.POP.NETM
+Belarus,BLR,Net migration,2009,0,SM.POP.NETM
+Belarus,BLR,Net migration,2010,0,SM.POP.NETM
+Belarus,BLR,Net migration,2011,0,SM.POP.NETM
+Belarus,BLR,Net migration,2012,72123,SM.POP.NETM
+Belarus,BLR,Net migration,2013,0,SM.POP.NETM
+Belarus,BLR,Net migration,2014,0,SM.POP.NETM
+Belarus,BLR,Net migration,2015,0,SM.POP.NETM
+Belarus,BLR,Net migration,2016,0,SM.POP.NETM
+Belarus,BLR,Net migration,2017,43648,SM.POP.NETM
+Belarus,BLR,Net migration,2018,0,SM.POP.NETM
+Belarus,BLR,Net migration,2019,0,SM.POP.NETM
+Belarus,BLR,Net migration,2020,0,SM.POP.NETM
+Belarus,BLR,Net migration,2021,0,SM.POP.NETM
+Canada,CAN,Net migration,2000,0,SM.POP.NETM
+Canada,CAN,Net migration,2001,0,SM.POP.NETM
+Canada,CAN,Net migration,2002,1052013,SM.POP.NETM
+Canada,CAN,Net migration,2003,0,SM.POP.NETM
+Canada,CAN,Net migration,2004,0,SM.POP.NETM
+Canada,CAN,Net migration,2005,0,SM.POP.NETM
+Canada,CAN,Net migration,2006,0,SM.POP.NETM
+Canada,CAN,Net migration,2007,1326431,SM.POP.NETM
+Canada,CAN,Net migration,2008,0,SM.POP.NETM
+Canada,CAN,Net migration,2009,0,SM.POP.NETM
+Canada,CAN,Net migration,2010,0,SM.POP.NETM
+Canada,CAN,Net migration,2011,0,SM.POP.NETM
+Canada,CAN,Net migration,2012,1241416,SM.POP.NETM
+Canada,CAN,Net migration,2013,0,SM.POP.NETM
+Canada,CAN,Net migration,2014,0,SM.POP.NETM
+Canada,CAN,Net migration,2015,0,SM.POP.NETM
+Canada,CAN,Net migration,2016,0,SM.POP.NETM
+Canada,CAN,Net migration,2017,1210159,SM.POP.NETM
+Canada,CAN,Net migration,2018,0,SM.POP.NETM
+Canada,CAN,Net migration,2019,0,SM.POP.NETM
+Canada,CAN,Net migration,2020,0,SM.POP.NETM
+Canada,CAN,Net migration,2021,0,SM.POP.NETM
+France,FRA,Net migration,2000,0,SM.POP.NETM
+France,FRA,Net migration,2001,0,SM.POP.NETM
+France,FRA,Net migration,2002,926483,SM.POP.NETM
+France,FRA,Net migration,2003,0,SM.POP.NETM
+France,FRA,Net migration,2004,0,SM.POP.NETM
+France,FRA,Net migration,2005,0,SM.POP.NETM
+France,FRA,Net migration,2006,0,SM.POP.NETM
+France,FRA,Net migration,2007,446120,SM.POP.NETM
+France,FRA,Net migration,2008,0,SM.POP.NETM
+France,FRA,Net migration,2009,0,SM.POP.NETM
+France,FRA,Net migration,2010,0,SM.POP.NETM
+France,FRA,Net migration,2011,0,SM.POP.NETM
+France,FRA,Net migration,2012,423831,SM.POP.NETM
+France,FRA,Net migration,2013,0,SM.POP.NETM
+France,FRA,Net migration,2014,0,SM.POP.NETM
+France,FRA,Net migration,2015,0,SM.POP.NETM
+France,FRA,Net migration,2016,0,SM.POP.NETM
+France,FRA,Net migration,2017,182636,SM.POP.NETM
+France,FRA,Net migration,2018,0,SM.POP.NETM
+France,FRA,Net migration,2019,0,SM.POP.NETM
+France,FRA,Net migration,2020,0,SM.POP.NETM
+France,FRA,Net migration,2021,0,SM.POP.NETM
+India,IND,Net migration,2000,0,SM.POP.NETM
+India,IND,Net migration,2001,0,SM.POP.NETM
+India,IND,Net migration,2002,-1888986,SM.POP.NETM
+India,IND,Net migration,2003,0,SM.POP.NETM
+India,IND,Net migration,2004,0,SM.POP.NETM
+India,IND,Net migration,2005,0,SM.POP.NETM
+India,IND,Net migration,2006,0,SM.POP.NETM
+India,IND,Net migration,2007,-2655844,SM.POP.NETM
+India,IND,Net migration,2008,0,SM.POP.NETM
+India,IND,Net migration,2009,0,SM.POP.NETM
+India,IND,Net migration,2010,0,SM.POP.NETM
+India,IND,Net migration,2011,0,SM.POP.NETM
+India,IND,Net migration,2012,-2350075,SM.POP.NETM
+India,IND,Net migration,2013,0,SM.POP.NETM
+India,IND,Net migration,2014,0,SM.POP.NETM
+India,IND,Net migration,2015,0,SM.POP.NETM
+India,IND,Net migration,2016,0,SM.POP.NETM
+India,IND,Net migration,2017,-2663434,SM.POP.NETM
+India,IND,Net migration,2018,0,SM.POP.NETM
+India,IND,Net migration,2019,0,SM.POP.NETM
+India,IND,Net migration,2020,0,SM.POP.NETM
+India,IND,Net migration,2021,0,SM.POP.NETM
+Australia,AUS,"Population, total",2000,19153000,SP.POP.TOTL
+Australia,AUS,"Population, total",2001,19413000,SP.POP.TOTL
+Australia,AUS,"Population, total",2002,19651400,SP.POP.TOTL
+Australia,AUS,"Population, total",2003,19895400,SP.POP.TOTL
+Australia,AUS,"Population, total",2004,20127400,SP.POP.TOTL
+Australia,AUS,"Population, total",2005,20394800,SP.POP.TOTL
+Australia,AUS,"Population, total",2006,20697900,SP.POP.TOTL
+Australia,AUS,"Population, total",2007,20827600,SP.POP.TOTL
+Australia,AUS,"Population, total",2008,21249200,SP.POP.TOTL
+Australia,AUS,"Population, total",2009,21691700,SP.POP.TOTL
+Australia,AUS,"Population, total",2010,22031750,SP.POP.TOTL
+Australia,AUS,"Population, total",2011,22340024,SP.POP.TOTL
+Australia,AUS,"Population, total",2012,22733465,SP.POP.TOTL
+Australia,AUS,"Population, total",2013,23128129,SP.POP.TOTL
+Australia,AUS,"Population, total",2014,23475686,SP.POP.TOTL
+Australia,AUS,"Population, total",2015,23815995,SP.POP.TOTL
+Australia,AUS,"Population, total",2016,24190907,SP.POP.TOTL
+Australia,AUS,"Population, total",2017,24601860,SP.POP.TOTL
+Australia,AUS,"Population, total",2018,24982688,SP.POP.TOTL
+Australia,AUS,"Population, total",2019,25365745,SP.POP.TOTL
+Australia,AUS,"Population, total",2020,25687041,SP.POP.TOTL
+Australia,AUS,"Population, total",2021,0,SP.POP.TOTL
+Belarus,BLR,"Population, total",2000,9979610,SP.POP.TOTL
+Belarus,BLR,"Population, total",2001,9928549,SP.POP.TOTL
+Belarus,BLR,"Population, total",2002,9865548,SP.POP.TOTL
+Belarus,BLR,"Population, total",2003,9796749,SP.POP.TOTL
+Belarus,BLR,"Population, total",2004,9730146,SP.POP.TOTL
+Belarus,BLR,"Population, total",2005,9663915,SP.POP.TOTL
+Belarus,BLR,"Population, total",2006,9604924,SP.POP.TOTL
+Belarus,BLR,"Population, total",2007,9560953,SP.POP.TOTL
+Belarus,BLR,"Population, total",2008,9527985,SP.POP.TOTL
+Belarus,BLR,"Population, total",2009,9504583,SP.POP.TOTL
+Belarus,BLR,"Population, total",2010,9483836,SP.POP.TOTL
+Belarus,BLR,"Population, total",2011,9461643,SP.POP.TOTL
+Belarus,BLR,"Population, total",2012,9446836,SP.POP.TOTL
+Belarus,BLR,"Population, total",2013,9443211,SP.POP.TOTL
+Belarus,BLR,"Population, total",2014,9448515,SP.POP.TOTL
+Belarus,BLR,"Population, total",2015,9461076,SP.POP.TOTL
+Belarus,BLR,"Population, total",2016,9469379,SP.POP.TOTL
+Belarus,BLR,"Population, total",2017,9458989,SP.POP.TOTL
+Belarus,BLR,"Population, total",2018,9438785,SP.POP.TOTL
+Belarus,BLR,"Population, total",2019,9419758,SP.POP.TOTL
+Belarus,BLR,"Population, total",2020,9379952,SP.POP.TOTL
+Belarus,BLR,"Population, total",2021,0,SP.POP.TOTL
+Canada,CAN,"Population, total",2000,30685730,SP.POP.TOTL
+Canada,CAN,"Population, total",2001,31020902,SP.POP.TOTL
+Canada,CAN,"Population, total",2002,31360079,SP.POP.TOTL
+Canada,CAN,"Population, total",2003,31644028,SP.POP.TOTL
+Canada,CAN,"Population, total",2004,31940655,SP.POP.TOTL
+Canada,CAN,"Population, total",2005,32243753,SP.POP.TOTL
+Canada,CAN,"Population, total",2006,32571174,SP.POP.TOTL
+Canada,CAN,"Population, total",2007,32889025,SP.POP.TOTL
+Canada,CAN,"Population, total",2008,33247118,SP.POP.TOTL
+Canada,CAN,"Population, total",2009,33628895,SP.POP.TOTL
+Canada,CAN,"Population, total",2010,34004889,SP.POP.TOTL
+Canada,CAN,"Population, total",2011,34339328,SP.POP.TOTL
+Canada,CAN,"Population, total",2012,34714222,SP.POP.TOTL
+Canada,CAN,"Population, total",2013,35082954,SP.POP.TOTL
+Canada,CAN,"Population, total",2014,35437435,SP.POP.TOTL
+Canada,CAN,"Population, total",2015,35702908,SP.POP.TOTL
+Canada,CAN,"Population, total",2016,36109487,SP.POP.TOTL
+Canada,CAN,"Population, total",2017,36545295,SP.POP.TOTL
+Canada,CAN,"Population, total",2018,37065178,SP.POP.TOTL
+Canada,CAN,"Population, total",2019,37593384,SP.POP.TOTL
+Canada,CAN,"Population, total",2020,38005238,SP.POP.TOTL
+Canada,CAN,"Population, total",2021,0,SP.POP.TOTL
+France,FRA,"Population, total",2000,60912500,SP.POP.TOTL
+France,FRA,"Population, total",2001,61357432,SP.POP.TOTL
+France,FRA,"Population, total",2002,61805266,SP.POP.TOTL
+France,FRA,"Population, total",2003,62244880,SP.POP.TOTL
+France,FRA,"Population, total",2004,62704901,SP.POP.TOTL
+France,FRA,"Population, total",2005,63179356,SP.POP.TOTL
+France,FRA,"Population, total",2006,63621376,SP.POP.TOTL
+France,FRA,"Population, total",2007,64016227,SP.POP.TOTL
+France,FRA,"Population, total",2008,64374979,SP.POP.TOTL
+France,FRA,"Population, total",2009,64707035,SP.POP.TOTL
+France,FRA,"Population, total",2010,65027505,SP.POP.TOTL
+France,FRA,"Population, total",2011,65342789,SP.POP.TOTL
+France,FRA,"Population, total",2012,65659814,SP.POP.TOTL
+France,FRA,"Population, total",2013,65998685,SP.POP.TOTL
+France,FRA,"Population, total",2014,66312067,SP.POP.TOTL
+France,FRA,"Population, total",2015,66548272,SP.POP.TOTL
+France,FRA,"Population, total",2016,66724104,SP.POP.TOTL
+France,FRA,"Population, total",2017,66918020,SP.POP.TOTL
+France,FRA,"Population, total",2018,67101930,SP.POP.TOTL
+France,FRA,"Population, total",2019,67248926,SP.POP.TOTL
+France,FRA,"Population, total",2020,67391582,SP.POP.TOTL
+France,FRA,"Population, total",2021,0,SP.POP.TOTL
+India,IND,"Population, total",2000,1056575548,SP.POP.TOTL
+India,IND,"Population, total",2001,1075000094,SP.POP.TOTL
+India,IND,"Population, total",2002,1093317187,SP.POP.TOTL
+India,IND,"Population, total",2003,1111523146,SP.POP.TOTL
+India,IND,"Population, total",2004,1129623466,SP.POP.TOTL
+India,IND,"Population, total",2005,1147609924,SP.POP.TOTL
+India,IND,"Population, total",2006,1165486291,SP.POP.TOTL
+India,IND,"Population, total",2007,1183209471,SP.POP.TOTL
+India,IND,"Population, total",2008,1200669762,SP.POP.TOTL
+India,IND,"Population, total",2009,1217726217,SP.POP.TOTL
+India,IND,"Population, total",2010,1234281163,SP.POP.TOTL
+India,IND,"Population, total",2011,1250287939,SP.POP.TOTL
+India,IND,"Population, total",2012,1265780243,SP.POP.TOTL
+India,IND,"Population, total",2013,1280842119,SP.POP.TOTL
+India,IND,"Population, total",2014,1295600768,SP.POP.TOTL
+India,IND,"Population, total",2015,1310152392,SP.POP.TOTL
+India,IND,"Population, total",2016,1324517250,SP.POP.TOTL
+India,IND,"Population, total",2017,1338676779,SP.POP.TOTL
+India,IND,"Population, total",2018,1352642283,SP.POP.TOTL
+India,IND,"Population, total",2019,1366417756,SP.POP.TOTL
+India,IND,"Population, total",2020,1380004385,SP.POP.TOTL
+India,IND,"Population, total",2021,0,SP.POP.TOTL
